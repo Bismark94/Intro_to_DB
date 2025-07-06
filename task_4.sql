@@ -2,7 +2,7 @@
 -- Print the full description of the table books without using DESCRIBE or EXPLAIN
 
 USE alx_book_store;
--- SHOW CREATE TABLE books;
+SHOW CREATE TABLE books;
 
 USE alx_book_store;
 
