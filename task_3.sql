@@ -9,8 +9,5 @@ WHERE
   table_schema = DATABASE()
 ORDER BY
   TABLE_NAME;
-
--- task_3.sql
--- List all tables in the database supplied to the mysql command
-
+USE alx_book_store;
 SHOW TABLES;
